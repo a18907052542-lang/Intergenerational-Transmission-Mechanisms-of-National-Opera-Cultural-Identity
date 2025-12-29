@@ -1,0 +1,4 @@
+Dimension,Direct_Effect,Direct_p,FSI_Main,FSI_p,Interaction,Interaction_p,R2_Change,Total_R2
+Cognitive,0.506,0.0,0.36,0.0,0.057,0.0,0.005,0.593
+Affective,0.439,0.0,0.569,0.0,0.082,0.0,0.012,0.666
+Behavioral,0.343,0.0,0.528,0.0,0.119,0.0,0.024,0.655

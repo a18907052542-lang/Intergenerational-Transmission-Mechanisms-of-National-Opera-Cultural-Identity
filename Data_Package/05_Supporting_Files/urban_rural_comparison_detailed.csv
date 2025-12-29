@@ -1,0 +1,4 @@
+Parameter,Urban,Urban_p,Rural,Rural_p,Difference,Diff_p
+Parent → Child,0.48,0.0,0.345,0.0,0.135,0.0
+FSI → Child,0.492,0.0,0.41,0.0,0.082,0.0
+Interaction,0.089,0.0,0.087,0.0,0.002,0.9178
